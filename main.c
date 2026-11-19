@@ -1,12 +1,3 @@
-
-/*
- * Laboratory Work No. 1 — Monitors
- * Student: Farzad Afzalli
- * Group: 932404
- *
- * Producer-Consumer synchronization using POSIX threads.
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
