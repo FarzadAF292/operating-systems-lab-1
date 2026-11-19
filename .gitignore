@@ -1,0 +1,22 @@
+
+# Compiled programs
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+*~
